@@ -1,4 +1,4 @@
-Major=0
+Major=1
 Minor=0
 Patch=0
-Full=0.0.0
+Full=1.0.0
