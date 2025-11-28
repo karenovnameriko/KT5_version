@@ -1,4 +1,4 @@
 Major=1
 Minor=2
-Patch=1
-Full=1.2.1
+Patch=2
+Full=1.2.2
